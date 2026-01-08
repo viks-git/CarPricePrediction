@@ -1,0 +1,507 @@
+feature	coef
+model_Sterling Acterra	19744.12344
+model_sport	14636.19966
+model_sierra 3500	14588.98831
+model_Hino 268	13863.41308
+model_cc4500	9732.327305
+model_gx	9388.174512
+model_f-250 super duty lariat cre	9285.340442
+model_Maserati Levante	9065.478456
+model_fuso fh211	8912.625441
+model_4500 lcf gas	8663.227632
+model_sierra 2500hd denali	7869.275005
+model_x6	7863.802616
+model_super duty f-550 drw	7730.925658
+model_transit cutaway	7634.21355
+model_charger limousine	7232.636932
+model_firebird trans am ws6	7101.437639
+model_gladiator	6947.198975
+model_cls	6686.398456
+model_f250 super duty 4x4	6429.031019
+model_tundra crewmax sr5 pickup	6420.893974
+model_super duty f-250 srw	6405.84448
+model_corvette grand sport	6342.637461
+model_civic type r	6293.388784
+model_maxima	6222.963298
+model_1500 yukon slt	6064.333172
+model_f150 supercrew cab xl	6026.660994
+model_civic del sol si	5839.808188
+model_Blue Bird All American	5833.04129
+model_f250 sd xlt	5718.471016
+model_wrangler unlimited rubicon	5685.526997
+model_4500	5610.236055
+model_s10 pickup	5546.969518
+model_silverado 3500hd	5391.519434
+model_tlx	5339.345666
+model_5500	5262.752306
+model_370z nismo coupe 2d	5247.353544
+cylinders_4 cylinders	5139.48147
+model_qx 50 luxe	5089.725634
+model_4runner 4wd	5048.454532
+model_mdx sh-awd w/technology	5017.758083
+model_3500 big horn	4990.78809
+model_silverado 2500 hd ltz	4989.78723
+model_lesabre	4979.218095
+model_q60	4892.4391
+model_s60 t8 r-design sedan 4d	4872.226502
+model_f-250 super duty	4766.977318
+model_HUMMER H2	4696.597601
+model_titan xd cummins platinum	4645.956882
+model_xt4 sport suv 4d	4641.277559
+model_jetta sel	4624.951654
+model_s60 t6 r-design sedan 4d	4613.609653
+model_1987 Saab 900 Turbo	4583.402499
+model_z4 sdrive35is roadster 2d	4393.22013
+model_spectra ex	4377.488905
+model_300m	3958.987461
+model_f150 supercrew cab xlt	3908.940333
+model_f350 super duty	3873.27268
+manufacturer_gmc	3835.909514
+model_fuso fe145	3834.897967
+model_s60 t6 inscription sedan	3830.822574
+model_accord sedan	3818.024616
+model_corvette convertible	3773.257102
+model_c-class	3757.634857
+model_silverado 1500 crew	3702.292937
+model_ls 460 sedan 4d	3571.30577
+size_mid-size	3526.766627
+model_f-250	3519.919447
+model_f750	3514.860864
+model_sierra 1500 crew cab slt	3324.661557
+model_camaro ss coupe 2d	3303.074398
+model_escalade	3259.508179
+manufacturer_nan	3237.019348
+model_1500 crew cab laramie pickup	3233.738428
+type_other	3194.023737
+model_rx 350 sport utility 4d	3192.607351
+size_nan	3140.641043
+model_transit connect	3126.93174
+manufacturer_audi	3109.986331
+manufacturer_pontiac	3080.196771
+model_civic ex	3078.984845
+cylinders_nan	3069.361626
+model_continental select sedan	3026.216487
+model_q5 45 tfsi premium plus	2939.939951
+model_4runner limited	2938.681056
+model_silverado 2500hd	2937.869714
+model_super duty f-250	2933.882352
+model_qx60 luxe sport utility	2925.961952
+model_wrangler unlimited sport	2922.997498
+model_nx 300 sport utility 4d	2920.088668
+model_optima	2854.831584
+model_murano	2820.276505
+cylinders_6 cylinders	2812.014461
+model_Isuzu NPR HD GAS REG	2755.092142
+model_echo	2733.202043
+model_rdx sh-awd sport utility	2729.419889
+model_tahoe lt sport utility	2728.413876
+model_entourage	2685.776896
+cylinders_num	2627.489059
+model_HUMMER H2 Lifted 4x4	2623.361283
+model_xt5 platinum sport	2621.305351
+model_sorento lx	2584.561331
+cylinders_5 cylinders	2576.509909
+model_cayman	2513.202898
+condition_like new	2451.35686
+model_transit	2388.016144
+condition_new	2342.326968
+model_thunderbird	2342.326941
+model_cherokee sport	2338.831864
+manufacturer_lexus	2301.880528
+model_solara	2286.910894
+model_wrangler unlimited sahara	2277.118378
+model_cx-5	2255.778609
+model_benz ml 450	2208.598508
+model_sierra 2500hd	2186.366671
+model_grand caravan	2166.388574
+model_f-150 regular cab short bed	2145.077837
+model_sierra 1500	2138.992475
+model_challenger r/t scat pack	2100.285446
+type_truck	2071.301962
+manufacturer_porsche	2068.089357
+model_rl	2055.541005
+model_wrangler	2049.638326
+manufacturer_chevrolet	2041.787998
+model_nv2500 hd cargo	2000.157682
+model_f-350	1984.668914
+model_rogue sv	1934.512944
+model_romeo stelvio sport suv 4d	1926.390945
+manufacturer_alfa-romeo	1926.390938
+model_sentra	1916.630756
+model_elantra touring	1912.393615
+model_silverado 1500 double	1866.815511
+model_acadia denali sport utility	1858.135413
+model_tundra double cab	1849.468773
+model_tundra double cab pickup	1823.449925
+model_tacoma double cab sr5	1798.604702
+type_offroad	1795.698564
+model_mustang gt premium coupe 2d	1781.784039
+manufacturer_ram	1772.492894
+manufacturer_volvo	1759.748161
+model_odyssey	1743.65511
+model_mdx	1707.691024
+model_s60 t5 momentum sedan 4d	1675.835721
+model_tl	1674.623064
+model_sonata	1666.65472
+type_coupe	1627.721317
+model_f250 xl super duty	1617.208985
+model_silverado 1500 2lt crew cab long box 4wd	1565.749352
+model_express cargo van	1563.940176
+model_m-class	1561.662698
+model_f250 super duty regular cab	1506.352963
+manufacturer_rover	1506.179147
+condition_nan	1499.232607
+manufacturer_infiniti	1486.848346
+model_cx-9 touring	1460.560353
+model_tundra double cab sr	1458.661113
+model_2500	1443.658134
+model_e-pace p250 se sport	1439.307715
+model_fj cruiser	1334.525562
+manufacturer_toyota	1331.442941
+model_plymouth voyager	1305.51516
+model_commander sport	1275.392774
+model_3500 lcf gas	1252.031709
+model_f150 xlt	1227.588209
+model_benz c350	1220.616078
+model_f-750	1219.875917
+model_xterra	1218.411583
+model_mdx sh-awd sport utility	1209.748148
+model_express 3500	1198.236575
+model_mx-5 miata grand touring	1197.953365
+model_express	1181.497794
+type_convertible	1165.200239
+model_f250	1133.464665
+model_econoline commercial cutaway	1116.669537
+transmission_manual	1114.977195
+model_silverado 1500 lt crew cab 4wd	1084.986288
+model_econoline cargo van	1073.897877
+manufacturer_dodge	1050.264714
+model_a6 2.0t premium sedan 4d	1002.112007
+model_sierra 1500 extended cab slt	957.4465809
+condition_good	956.0432165
+model_impala	937.9321991
+model_titan	928.7165945
+model_2500 mega cab 4x4	907.7241661
+model_525i	861.6139658
+model_frontier king cab sv	839.9295766
+model_sc430	796.9417347
+model_tacoma	772.4500544
+model_wrangler unlimited willys	754.687854
+paint_color_green	720.5317244
+model_tacoma 4x4	701.0549972
+model_frontier	698.8171692
+model_f250 super duty	693.3317584
+model_Genesis G80	683.1640045
+manufacturer_ford	678.3896988
+model_silverado 1500	640.7280489
+size_full-size	640.6944482
+model_750li	602.5818661
+model_corvette	599.7972561
+model_mustang gt coupe 2d	549.762076
+model_rav4	538.0876205
+model_sorento	512.124466
+model_fj cruiser 4x4	497.2697633
+model_accord crosstour exl	476.7938284
+model_express commercial cutaway	435.2858505
+model_4runner sr5 sport utility	388.4039519
+size_sub-compact	379.9122497
+model_INTERNATIONAL 4700 DUMP	369.6262129
+model_tacoma double cab pickup	357.833798
+model_silverado 2500	353.0218683
+model_LBZ Duramax	348.7990887
+model_q7	335.0587926
+model_expedition xlt sport	314.4119657
+model_qx70	307.9538683
+model_a6 2.0t premium plus sedan	271.3290285
+model_accent	270.578717
+model_highlander	268.221975
+transmission_other	262.0199841
+model_nx 200t sport utility 4d	255.9245297
+model_cr-v lx	252.2571554
+model_crv ex-l	216.3192811
+cylinders_8 cylinders	145.8176472
+paint_color_white	132.0036948
+model_wrangler sport suv 2d	124.4623724
+model_enclave	122.6301248
+manufacturer_jaguar	119.2980123
+model_g35 sedan	87.22233739
+model_acadia slt-1 sport utility	64.58825979
+manufacturer_honda	52.93318659
+model_town & country	2.924481886
+type_mini-van	2.924420699
+model_frontier crew cab pro-4x	0
+region_birmingham	-49.29983485
+model_jetta	-53.17074335
+model_gx470	-74.41120313
+model_enclave cxl	-130.5831655
+model_mkz	-150.3712403
+type_pickup	-167.108995
+model_mkz select sedan 4d	-171.4376914
+model_camry xle	-176.301163
+model_e-pace p250 s sport	-190.3133807
+model_sierra 2500 hd double cab	-195.9056431
+model_qx4	-196.608484
+model_1500 crew cab big horn	-204.9614325
+model_rogue sport	-218.6482561
+model_qx60 3.5 sport utility	-233.8321745
+model_prius	-270.0033619
+model_300	-296.7590828
+model_altima 3.5 sl	-301.4748998
+model_savana	-314.7841277
+model_silverado 1500 lt	-370.7613432
+model_mustang gt premium	-378.8629854
+model_miata	-405.816205
+manufacturer_mitsubishi	-434.4906891
+model_boxster	-441.113524
+model_f150 super cab xl pickup 4d	-452.9561907
+model_mkz premiere sedan 4d	-463.7847384
+paint_color_yellow	-477.5853552
+model_super duty f-450 drw	-482.9937967
+model_mx-5 miata touring	-502.5777287
+model_f150	-545.7976645
+model_q50	-550.1597377
+type_nan	-562.901239
+model_mx-5 miata club	-563.1247195
+model_silverado 1500 ld	-580.458534
+model_300 limited sedan 4d	-591.013462
+model_focus	-604.8344943
+model_dakota regular cab long be	-626.0948612
+model_is 250	-677.3542891
+model_f450	-697.3136259
+model_ridgeline	-731.312041
+model_regal premium ii sedan 4d	-742.5819049
+model_cooper	-758.7561008
+model_grand cherokee	-816.7954989
+model_1500 crew cab tradesman	-830.2832813
+model_savana commercial cutaway	-832.7953468
+manufacturer_bmw	-835.8632511
+model_town car	-890.1353206
+model_silverado 1500 ltz crew cab 4wd	-910.0474069
+model_camry	-921.7326962
+model_yukon xl	-946.6208075
+model_escape	-953.7935848
+model_grand am gt 1	-963.3355948
+model_tacoma access cab pickup	-973.6109623
+model_forte	-1011.648771
+model_crosstour ex-l	-1020.195167
+paint_color_blue	-1051.197344
+model_sonata se sedan 4d	-1055.942944
+model_4runner	-1064.873261
+model_f150 regular cab xl pickup	-1091.039347
+model_rio	-1112.704735
+model_sonata sport sedan 4d	-1118.238281
+model_xjr s	-1121.696316
+model_1500 yukon denali xl	-1153.19095
+model_freestyle	-1159.218529
+model_fx35	-1165.360901
+paint_color_red	-1185.70246
+manufacturer_lincoln	-1190.113196
+model_lacrosse	-1219.001433
+model_f150 lariat supercrew 4x4	-1221.687467
+paint_color_grey	-1223.351232
+model_soul ! wagon 4d	-1241.971707
+model_suburban	-1261.42825
+model_altima	-1321.815281
+model_sonata sel sedan 4d	-1328.863722
+model_ranger supercrew xl pickup	-1330.10492
+model_ex35	-1331.852238
+model_altima 2.5 s	-1335.630153
+model_colorado crew cab z71	-1386.727683
+model_tc5500	-1417.305716
+model_grand cherokee laredo sport	-1435.331314
+model_q5 premium sport utility 4d	-1446.453428
+model_rx350	-1464.854216
+type_sedan	-1486.943484
+model_tundra	-1502.847823
+model_tsx	-1511.593334
+model_pt cruiser	-1521.291116
+model_1500 quad cab express pickup	-1536.888365
+model_e350	-1547.127517
+title_status_nan	-1547.86196
+model_sierra 1500 double cab sle	-1551.050193
+model_acadia slt sport utility 4d	-1552.441325
+paint_color_nan	-1565.109471
+model_transit connect wagon	-1575.631156
+model_accord	-1581.055868
+model_f250 service	-1612.143868
+model_benz c300	-1654.464993
+model_s60 t5 cross country	-1656.961116
+model_mdx sport utility 4d	-1674.752038
+model_civic si coupe 2d	-1682.840016
+model_acadia sle-2 sport utility	-1690.782693
+model_titan single cab sv	-1703.361826
+model_m35	-1708.853459
+model_1500 slt	-1737.950815
+model_cts	-1769.463541
+model_grand cherokee laredo	-1777.417901
+paint_color_silver	-1792.656108
+model_1500 quad cab harvest pickup	-1802.903938
+manufacturer_cadillac	-1816.467087
+model_fusion	-1816.686326
+model_corolla le	-1841.210921
+model_colorado extended cab	-1843.004948
+model_soul	-1855.242376
+model_cr-v ex-l	-1881.219541
+title_status_salvage	-1881.220038
+model_legacy 2.5i premium sedan	-1913.706313
+manufacturer_nissan	-1931.252782
+model_denali	-1934.945674
+model_windstar	-1936.38125
+model_sierra	-1938.013866
+model_blue bird bus	-1963.072625
+model_f-150 xlt	-2024.591024
+model_s60	-2044.440793
+model_super duty f-350 srw	-2061.400501
+model_odyssey exl	-2078.051328
+model_eclipse	-2102.139362
+manufacturer_mazda	-2106.013616
+type_hatchback	-2115.379555
+model_sierra 2500 hd extended cab	-2117.901155
+model_cherokee	-2186.487104
+model_sport trac	-2214.786015
+model_yukon xl denali	-2240.432768
+type_wagon	-2251.825249
+model_500l lounge	-2273.560809
+manufacturer_fiat	-2273.560824
+model_bronco ii	-2298.113512
+manufacturer_mercedes-benz	-2308.199265
+model_avalon	-2342.366649
+model_rx	-2342.951289
+paint_color_brown	-2374.85817
+model_elantra	-2386.908569
+model_z4	-2400.050886
+model_clk320	-2406.498543
+model_f150 regular cab xl	-2442.231971
+model_kicks	-2509.495881
+model_328i	-2525.893923
+model_mkc	-2528.600638
+model_sentra s sedan 4d	-2547.839323
+model_cavalier	-2561.298558
+model_explorer xlt	-2575.064768
+model_pathfinder	-2583.280315
+model_glk	-2608.567484
+model_sx4 se	-2615.170466
+model_encore	-2618.227501
+model_accord coupe	-2633.230345
+model_lr4 hse	-2635.938395
+type_van	-2638.410533
+model_taurus	-2654.531113
+model_colorado	-2663.934729
+title_status_missing	-2663.935286
+model_prius v hybrid	-2739.825859
+model_srx	-2756.044485
+model_ioniq hybrid	-2790.811332
+model_pilot lx sport utility 4d	-2795.90322
+model_tahoe	-2824.71249
+model_captiva sport	-2858.549908
+manufacturer_buick	-2872.954855
+model_suburban z71	-2889.640669
+model_miata mx-5	-2929.616764
+model_Isuzu NPR	-2933.381071
+model_e-series cargo e350 super d	-2934.13296
+model_ranger	-2958.303769
+model_sonata gls	-2994.818706
+model_jx35	-3013.734091
+model_1500 express	-3023.967365
+model_odyssey ex	-3034.120091
+model_grand prix	-3049.905245
+model_baja	-3075.852908
+model_sierra 1500 regular cab	-3141.677572
+model_ranger supercab xl pickup	-3147.729633
+model_f250 xl	-3151.728976
+model_frontier sv	-3166.43445
+model_charger rt 4dr sedan	-3184.556554
+model_f-150	-3226.302331
+model_fusion se	-3233.776156
+model_cooper s	-3248.281666
+model_verano	-3256.408926
+model_charger	-3260.71548
+manufacturer_jeep	-3324.694254
+model_silverado 1500 regular	-3328.421432
+model_es 330	-3332.153033
+model_c-max hybrid se wagon 4d	-3339.392908
+model_camry le sedan 4d	-3353.619529
+model_durango	-3369.679311
+model_impala lt	-3379.314818
+title_status_rebuilt	-3415.700859
+model_silverado	-3520.83453
+model_f150 xl	-3526.403928
+model_f250 lariat	-3554.860955
+manufacturer_chrysler	-3563.916207
+model_s60 t5 premier sedan 4d	-3575.707106
+model_qx50 sport utility 4d	-3600.053373
+drive_rwd	-3619.772731
+model_3500	-3632.571171
+model_nan	-3665.351589
+model_ml350	-3687.195389
+model_outlander sport es	-3699.304378
+paint_color_orange	-3699.304406
+model_traverse	-3769.889626
+model_sts v6	-3785.82657
+manufacturer_kia	-3796.932404
+model_cobalt	-3867.136474
+model_ct200h hybrid	-3950.158234
+model_canyon extended cab pickup	-3993.281232
+manufacturer_mini	-4011.037776
+model_trailblazer	-4023.215343
+model_sts	-4027.223542
+model_nv200	-4129.661994
+condition_fair	-4161.567566
+model_forte ex	-4169.832372
+model_civic lx sedan 4d	-4216.370867
+model_terrain slt	-4306.001882
+model_x5	-4354.659674
+age	-4394.432471
+model_freestar ses	-4430.721397
+model_venza	-4494.831558
+drive_nan	-4501.515705
+model_smart fortwo	-4518.694742
+cylinders_3 cylinders	-4518.695235
+paint_color_custom	-4629.113143
+model_sportage	-4730.538479
+model_Scion iM Hatchback 4D	-4811.220612
+odometer	-4899.005005
+model_passat tdi	-4918.068186
+model_corolla	-4947.894477
+model_mustang	-4964.098372
+manufacturer_subaru	-4993.559225
+model_International TerraStar	-5010.358257
+model_quest	-5021.428177
+model_explorer sport trac	-5032.010863
+model_200	-5112.764457
+model_edge	-5118.113493
+manufacturer_hyundai	-5144.179771
+model_sonic lt	-5232.750878
+model_liberty	-5237.034932
+model_camry l sedan 4d	-5267.613253
+model_x3	-5280.477285
+model_FordE450	-5327.090595
+fuel_nan	-5331.653674
+model_Suzuki XL-7	-5492.331279
+model_versa	-5564.679292
+model_malibu	-5574.50883
+model_econoline	-5721.573282
+model_hhr lt	-5800.372063
+model_1500 classic regular cab	-5840.694708
+model_terrain	-5853.746889
+model_patriot	-5904.181497
+type_bus	-5946.74724
+model_s60 t5 inscription sedan	-5951.637402
+model_is	-5973.279687
+model_scion ia	-6288.315465
+model_F-350	-6610.437376
+drive_fwd	-6616.195639
+fuel_other	-6890.207206
+model_jetta tdi	-6977.118568
+model_crown victoria	-7234.878489
+manufacturer_volkswagen	-7327.405769
+model_outlander phev gt	-7380.570303
+model_hhr	-7382.751128
+model_e320 cdi	-7390.383336
+fuel_gas	-7689.22428
+fuel_hybrid	-8340.609655
+model_trax	-8540.581817
+cylinders_other	-9816.714669
+model_SPECIAL FINANCE PROGRAM 2020	-9816.718472
+model_2002 limited 4 runner	-9862.976177
+model_renegade sport suv 4d	-10355.3009
